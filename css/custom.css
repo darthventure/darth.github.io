@@ -1,0 +1,23 @@
+.container {
+  max-width: 800px; }
+.header {
+  margin-top: 6rem;
+  text-align: center; }
+.docs-header {
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  letter-spacing: .2rem;
+  font-weight: 600; }
+.docs-section {
+  padding: 3rem 0;
+  margin-bottom: 0;}
+
+/* Larger than phone */
+@media (min-width: 550px) {
+  .header {
+    margin-top: 18rem; }
+  .docs-section {
+    padding: 3rem 0; }
+  .email-form {
+    margin-top: 18rem;}
+}
