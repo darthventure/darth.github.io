@@ -11,6 +11,13 @@
 .docs-section {
   padding: 3rem 0;
   margin-bottom: 0;}
+.join-link {
+  text-decoration: none;
+  font-size: 2rem;
+}
+.legend {
+  font-size: 2rem;
+}
 
 /* Larger than phone */
 @media (min-width: 550px) {
